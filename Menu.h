@@ -1,9 +1,4 @@
 
-/* Assignment: 2
-Author: Roey Salah ID: 206115438
-Author: Priel Hoffman ID: 318277308
-*/
-
 
 
 #ifndef ASSIGNMENT2_MENU_H
