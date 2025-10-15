@@ -1,8 +1,8 @@
-executable_2: assignment2.o String.o Client.o MatchMakingAgency.o Menu.o
-	g++ assignment2.o String.o Client.o MatchMakingAgency.o Menu.o -o executable_2
+executable_2: main.o String.o Client.o MatchMakingAgency.o Menu.o
+	g++ main.o String.o Client.o MatchMakingAgency.o Menu.o -o executable_2
 
-assignment2.o: assignment2.cpp
-	g++ -c assignment2.cpp
+main.o: main.cpp
+	g++ -c main.cpp
 
 String.o: String.cpp
 	g++ -c String.cpp
