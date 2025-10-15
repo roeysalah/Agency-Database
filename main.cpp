@@ -1,6 +1,3 @@
-/* Assignment: 2
-Author: Roey Salah
- */
 
 #include "Menu.h"
 
